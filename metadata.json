@@ -1,0 +1,13 @@
+{
+  "name": "Remix: Sikeu Festival Gurita 2026",
+  "description": "Aplikasi manajemen keuangan dan pelaporan otomatis untuk Bendahara Festival Gurita Kabupaten Kaur 2026",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "pencatatan_keuangan",
+    "budgeting",
+    "laporan_otomatis",
+    "tanda_tangan_digital"
+  ]
+}
